@@ -29,6 +29,12 @@ client.on('ready', () => {
     console.log('READY');
 });
 
+client.on('ali farhat', () => {
+
+    console.log('Hyda m3leem');
+
+});
+
 client.on('message', async msg => {
     console.log('MESSAGE RECEIVED', msg);
 
